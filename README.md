@@ -2,6 +2,6 @@
 
 This project was bootstrapped by...
 
-## Available Scripts
 
-...
+1. ```npm i``` to download the dependencies
+2. ```npm start``` to start the project
